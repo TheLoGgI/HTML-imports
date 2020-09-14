@@ -15,6 +15,7 @@ so the script can load toghter with the html.
 
 ## How To Use
 Use a div (or any other tag) with an empty import attribute followed by a href attribute assigned with the location of your HTML file.
+The script looks for a section tag, which can be changed.
 
 ```
  <div import href="./pages/content.html"></div>
